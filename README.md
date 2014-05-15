@@ -2,4 +2,7 @@
 
 This is the pinteresting sample application
 
-by Henry
+*NO LONGER WORKING ON THIS* f rails
+
+made with hate by henry
+
